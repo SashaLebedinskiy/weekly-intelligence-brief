@@ -18,6 +18,8 @@
 | S&P 500 / Nasdaq за неделю | **−1,4% / −2,1%**, 21 августа | Неделя закончилась коррекцией, особенно в technology. [рыночный отчёт](https://www.kiplinger.com/investing/stocks/dow-adds-517-points-ahead-of-nvidia-earnings-week-stock-market-today) |
 | Nvidia–OpenAI | гарантия до **$105 млрд** | Поставщик чипов стал софинансистом инфраструктуры клиента; это меняет профиль риска AI-сделок. [Reuters](https://www.investing.com/news/stock-market-news/nvidia-to-invest-15-billion-in-sb-energy-under-openai-data-center-deal-4863156) |
 
+:::visual monetary-conditions
+
 ## Executive Summary
 
 1. **Российская инфляция дала хорошую недельную цифру, но плохой сигнал доверия.** ИПЦ за 11–17 августа снизился на 0,02%, однако ожидания населения на год выросли до 14,7%. Для ЦБ важнее не одна неделя цен, а закрепление ожиданий; поэтому текущие 14% — всё ещё ограничительная, а не переходная ставка.
@@ -94,6 +96,8 @@ Nvidia согласилась гарантировать до $105 млрд об
 ### Что опровергнет вывод
 
 Прозрачные условия финансирования, подтверждённые сроки ввода, высокий utilisation и видимая выручка OpenAI от enterprise/inference снизят риск. Обратный сигнал — перенос сроков, рост стоимости капитала или новые гарантии без соответствующей monetisation.
+
+:::visual ai-risk-chain
 
 ## Russia & markets radar
 
